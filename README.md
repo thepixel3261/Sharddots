@@ -1,3 +1,7 @@
+# WARNING
+## These dotfiles are not and will never be compatible with the new Lua config system of Hyprland!
+
+
 # Sharddots — Hyprland Dotfiles (Arch Linux)
 
 A **glassy-style Hyprland setup** for Arch-based systems.  
